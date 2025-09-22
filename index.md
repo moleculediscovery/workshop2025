@@ -18,7 +18,9 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 ### Accepted contributions (poster)
 
 ### Important dates
-- December 2, 2025: Workshop at the ELLIS Unconference at Copenhagen
+- Submission Date for Workshop Contributions: October 10, 2025, AoE
+- Accept/Reject Notification Date: October 31, 2025, AoE
+- **December 2, 2025**: Workshop at the [ELLIS Unconference](https://eurips.cc/ellis/) at Copenhagen
 
 ### Call for papers
 
