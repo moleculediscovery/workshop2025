@@ -34,7 +34,7 @@ We invite submissions on machine learning for molecules and materials with a spe
 **Submission Instructions**
 - Platform: [Openreview](https://openreview.net/group?id=ELLIS.eu/2025/Workshop/ML4Molecules)
 - Format: PDF using the NeurIPS style (main text max 5 pages, excluding references and appendices).
-- OR: Extended abstracts with up to 2 pages (non‑archival; PDF free form).
+- OR: Extended abstracts with up to 2 pages (PDF free form).
 - Anonymity: Dual‑anonymous review—please anonymize your manuscript.
 
 **Presentation & Publication Policy**
