@@ -46,7 +46,7 @@ We invite submissions on machine learning for molecules and materials with a spe
 ## Best Paper Award
 
 ## Sponsors
-- [gen ai](https://www.genai.ac.uk/)
+- [gen ai](https://www.genai.ac.uk/) ![void](./assets/genai_log.png "logo")
 
 ## Organizing Committee and Contact
 Chairs: Nadine Schneider, Francesca Grisoni, and Jose Miguel Hernandez Lobato
