@@ -13,7 +13,7 @@ TBA
 ## Keynote Speakers
 
 ## Important dates
-- Submission Date for Workshop Contributions: October 10, 2025, AoE
+- Submission Date for Workshop Contributions: October 15, 2025, 23:59 UTC (**extended**)
 - Accept/Reject Notification Date: October 31, 2025, AoE
 - **December 2, 2025**: Workshop at the [ELLIS Unconference](https://eurips.cc/ellis/) at Copenhagen
 
