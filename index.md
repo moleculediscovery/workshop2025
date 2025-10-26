@@ -10,7 +10,11 @@ TBA
 
 ## Schedule 
 
-## Keynote Speakers
+## Invited Speakers
+- [Rocio Mercado](https://rociomer.github.io/)
+- [Marwin Segler](https://www.microsoft.com/en-us/research/people/marwinsegler/)
+- [Daniel Probst](https://www.wur.nl/en/persons/daniel-probst.htm)
+- [Nadine Schneider](https://ch.linkedin.com/in/nadine-schneider-a9930511b)
 
 ## Important dates
 - Submission Date for Workshop Contributions: October 15, 2025, 23:59 UTC (**extended**)
