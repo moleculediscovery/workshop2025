@@ -10,7 +10,54 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
      - Please register [here](https://discongress.eventsair.com/eurips-2025/ellis-guest/Site/Register)
 - Virtual participation: TBA
 
-## Schedule 
+## Schedule (subject to changes)
+### 08:00–09:00
+- **Registration**
+
+### 09:00–10:00
+- **Invited Talks**
+  - 09:00–09:30 — Invited talk
+  - 09:30–10:00 — Invited talk
+
+### 10:00–10:30
+- **Contributed Talks**
+  - 10:00–10:15 — Contributed talk
+  - 10:15–10:30 — Contributed talk
+
+### 10:30–11:00
+- **Coffee break**
+
+### 11:00–12:30
+- **Session**
+  - 11:00–11:30 — Invited talk
+  - 11:30–12:00 — Contributed talk
+  - 12:00–12:15 — Contributed talk
+  - 12:15–12:30 — Contributed talk
+
+### 12:30–13:30
+- **Lunch**
+
+### 13:30–15:00
+- **Session**
+  - 13:30–14:00 — Invited talk
+  - 14:00–14:30 — Contributed talk
+  - 14:30–14:45 — Contributed talk
+  - 14:45–15:00 — Contributed talk
+
+### 15:00–15:30
+- **Coffee break**
+
+### 15:30–16:00
+- **ELLIS Unconference — Welcome Remarks**
+
+### 16:00–18:00
+- **Parallel Sessions**
+  - 16:00–16:30 — Retreat of program fellows
+  - 16:00–18:00 — Poster session
+
+### 18:00–20:00
+- **Reception**
+
 
 ## Invited Speakers
 - [Rocio Mercado](https://rociomer.github.io/)
