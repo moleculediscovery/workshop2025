@@ -32,7 +32,7 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
   - 11:00–11:30 — Invited talk
   - 11:30–12:00 — Contributed talk
   - 12:00–12:15 — Contributed talk
-  - 12:15–12:30 — Contributed talk
+  - 12:15–12:30 — Panel Discussion
 
 ### 12:30–13:30
 - **Lunch**
@@ -40,7 +40,8 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 ### 13:30–15:00
 - **Session**
   - 13:30–14:00 — Invited talk
-  - 14:00–14:30 — Contributed talk
+  - 14:00–14:15 — Contributed talk
+  - 14:15–14:30 — Contributed talk
   - 14:30–14:45 — Contributed talk
   - 14:45–15:00 — Contributed talk
 
