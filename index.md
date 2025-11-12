@@ -8,7 +8,8 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 ## Registration
 - Physical participation:
      - Please register [here](https://discongress.eventsair.com/eurips-2025/ellis-guest/Site/Register)
-- Virtual participation: TBA
+- Virtual participation:
+     - Please register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecules-workshop-2025-virtual-participation-tickets-1968488753853)
 
 ## Schedule (subject to changes)
 ### 08:00–09:00
