@@ -67,10 +67,53 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 - [Daniel Probst](https://www.wur.nl/en/persons/daniel-probst.htm)
 - [Nadine Schneider](https://ch.linkedin.com/in/nadine-schneider-a9930511b)
 
+
+## Accepted contributions
+- #1 Look the Other Way: Designing 'Positive' Molecules with Negative Data via Task Arithmetic	*Rıza Özçelik, Sarah de Ruiter, Francesca Grisoni*  
+- #2 Exploring alignment of scRNA-seq models with prior knowledge	*Charlotte Claye, Pierre Marschall, Wassila Ouerdane, CELINE HUDELOT, Julien Duquesne*  
+- #3 STRIPES: a Novel Spatio-Temporal Language to Encode Dynamic Protein-Ligand Binding	*Emanuele Criscuolo, Rıza Özçelik, Francesca Grisoni*  
+- #4 Automated navigation of condensate phase behavior with active machine learning	*Yannick Leurs, Willem van den Hout, Andrea Gardin, Joost L.J. van Dongen, Andoni Rodriguez-Abetxuko, Nadia Erkamp, Jan van Hest, Francesca Grisoni, Luc Brunsveld*  
+- #5 Task Alignment Outweighs Framework Choice in Scientific LLM Agents	*Nawaf Alampara, Martiño Ríos-García, Chandan Gupta, Sajid Mannan, Santiago Miret, N M Anoop Krishnan, Kevin Maik Jablonka*  
+- #6 Unifying Structure- and Ligand-based Drug Design via Contrastive Geometric Learning	*Lisa Schneckenreiter, Sohvi Luukkonen, Lukas Friedrich, Daniel Kuhn, Günter Klambauer*  
+- #7 SynthStrategy: Programmatic Distillation of Latent Chemical Knowledge in Large Language Models	*Daniel P Armstrong, Zlatko Jončev, Andres M Bran, Philippe Schwaller* 
+- #8 MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs	*Christoph Bartmann, Johannes Schimunek, Mykyta Ielanskyi, Philipp Seidl, Günter Klambauer, Sohvi Luukkonen*  
+- #9 WEISS: Wasserstein efficient sampling strategy for LLMs in drug design	*Riccardo Tedoldi, Junyong Li, Ola Engkvist, Andrea Passerini, Annie Westerlund, Alessandro Tibo*  
+- #10 Controllable Molecular Generation with Fine-tuned Flow-matching Model	*Kunyu Wang, Jon Paul Janet, Alessandro Tibo*  
+- #11 Integration over Isolation: DFT descriptors boost Chemical Language Model predictive performance	*Gian-Michele Cherchi, Robert Pollice, Davi Mattoso, Hannes Hovorka*  
+- #12 Evaluating 3D generative models for molecular design: an industry perspective	*Alex T. Müller, Astrid Stroobants, Jessica Lanini, Paula Torren-Peraire, Balmiki Ghosh, Finton Sirockin, Nikolas Fechner, Nadine Schneider*  
+- #13 Quantifying Multi-Objective Optimization in Generative Chemistry for Molecule Design	*Paula Torren-Peraire, Nadine Schneider, Raquel Rodriguez-Perez, Robin A. Fairhurst, Jessica Lanini*  
+- #14 AntiDIF: Accurate and Diverse Antibody Specific Inverse Folding with Discrete Diffusion	*Nikhil Branson, Charlotte Deane*  
+- #16 Auto-Encoding Molecules: Graph-Matching Capabilities Matter	*Magnus Cunow, Gerrit Großmann, Verena Wolf, Sebastian Josef Vollmer*  
+- #18 Extended Abstract: Surfactant Simulation and Prediction Through Machine Learning	*Richard Beckmann, Robert S. Jordan, Marisa Gliege, Santiago Miret, Vijay Kris Narasimhan, Rocío Mercado*  
+- #19 fragSMILES is inclined to well express chemical fragments and chirality for synthesis planning.	*Fabrizio Mastrolorito*  
+- #20 Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery	*Michael Backenköhler, Joschka Groß, Andrea Volkamer*  
+- #21 Bridging Data-Driven and Expert Knowledge for Interpretable Evaluation of Synthetic Routes	*Yujia Guo, Mikhail Kabeshov, Tat Hong Duong Le, Marco Vinicio Mijangos Linares, Samuel Genheden, Giulia Bergonzini, Ola Engkvist, Samuel Kaski*  
+- #22 Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval	*Olga Bunkova, Lorenzo Di Fruscia, Sophia Rupprecht, Artur M. Schweidtmann, Marcel Reinders, Jana Marie Weber*  
+- #23 LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities	*Florian Sestak, Artur P. Toshev, Andreas Fürst, Günter Klambauer, Andreas Mayr, Johannes Brandstetter*  
+- #24 Improving Molecular Property Prediction with Score-Based Models	*Julien Horwood, José Miguel Hernández-Lobato, Dino Oglic*  
+- #25 Physics-Informed Surrogates in a Verified Agentic Pipeline for Robust Molecular Simulation	*David Scott Lewis, Enrique Zueco*  
+- #26 Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus	*Rasmus Hannibal Tirsgaard, Marisa Wodrich, Laurits Fredsgaard, Mikkel Jordahn, Mikkel N. Schmidt*  
+- #28 MolForge and MolBox: End-to-End Automation for Reproducible Molecular Machine Learning Datasets	*Luke Rossen, Francesca Grisoni*  
+- #29 Explaining What Matters: Faithfulness in Molecular Deep Learning	*Marcel Hiltscher, Marc Bianciotto, Francesca Grisoni*  
+- #30 Teaching Language Models Mechanistic Explainability Through Arrow-Pushing	*Théo A. Neukomm, Zlatko Jončev, Philippe Schwaller*  
+- #31 FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction	*Julian Cremer, Tuan Le, Mohammad M. Ghahremanpour, Emilia Sługocka, Filipe Menezes, Djork-Arné Clevert*  
+- #32 Robust Mechanism-of-Action Identification Through In-Context Multi-Source Domain Adaptation	*Ana Sanchez-Fernandez, Werner Zellinger, Günter Klambauer*  
+- #33 Accelerated Learning on Large Scale Screens using Generative Library Models	*Eli N Weinstein, Andrei Slabodkin, Mattia G Gollub, Xiao-Bing Cui, Kerry Dobbs, Fang zhang, Kristina Gurung, Amira J Bailey, Elizabeth Baker Wood*  
+- #34 Unified Bayesian Modelling of Bioactivities Across ChEMBL	*Michael Backenköhler, Joschka Groß, Andrea Volkamer*  
+- #35 Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs	*Xuan Vu Nguyen, Daniel P Armstrong, Milena Wiegand, Andres M Bran, Zlatko Jončev, Philippe Schwaller*  
+- #36 Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge	*Antonia Ebner, Christoph Bartmann, Sonja Topf, Sohvi Luukkonen, Johannes Schimunek, Günter Klambauer*  
+- #37 FlashMD reloaded: extending the capabilities of a universal, machine-learned direct molecular dynamics propagator	*Sanggyu Chong, Filippo Bigi, Michele Ceriotti*  
+- #39 Formalising Hybrid Modelling Approaches for Molecular Property Prediction	*Adem R N Aouichaoui, Paul Seghers, Jens Abildskov*  
+- #40 MDAgent: A Modular Multi-Agent Framework for Autonomous Protein-Ligand Molecular Dynamics Simulations	*Cassandra Masschelein, Salomé Guilbert, Jeremy Goumaz, Bohdan Naida, Philippe Schwaller*  
+- #41 Exploring Temperature and Molecular Representation Effects in LLMs for Chemistry	*Laura van Weesep, Jens Sjölund, Ola Engkvist, Samuel Genheden*  
+- #42 B-Shapes: a completeness-first, rotation-invariant representation connecting spaces of ligands and pockets	*Radoslav Krivak, Christos Feidakis, Jiří Vondrášek*  
+
 ## Important dates
 - Submission Date for Workshop Contributions: October 15, 2025, 23:59 UTC (**extended**)
 - Accept/Reject Notification Date: October 31, 2025
 - **December 2, 2025**: Workshop at the [ELLIS Unconference](https://eurips.cc/ellis/) at Copenhagen
+
+
 
 ## Call for papers
 
@@ -95,8 +138,6 @@ We invite submissions on machine learning for molecules and materials with a spe
 **Presentation & Publication Policy**
 - Accepted papers will be presented as posters; a subset may be selected for spotlight talks.
 - This workshop is non‑archival. Workshop papers often reflect ongoing work and will not be treated as final versions of record.
-
-## Accepted contributions (poster)
 
 ## Best Paper Award
 
