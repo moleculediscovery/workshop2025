@@ -18,7 +18,7 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 09:00 - 09:30     |	Invited Talk            | Rocio Mercado    | Generative AI for Molecular Design: From Drugs to Sustainable Materials                    |
 | 09:30 - 10:00     |    Invited Talk            | Daniel Probst    | Of graphs, sets, and molecules                                                             |
 | 10:00 - 10:15     |    Contributed Talk        | Nawaf Alampara   | Task Alignment Outweighs Framework Choice in Scientific LLM Agents                         |
-| 10:15 – 10:30     |    Contributed Talk        | Riccardo Tedoldi | WEISS: Wasserstein efficient sampling strategy for LLMs in drug design                     |
+| 10:15 - 10:30     |    Contributed Talk        | Riccardo Tedoldi | WEISS: Wasserstein efficient sampling strategy for LLMs in drug design                     |
 | 10:30 - 11:00     |    Coffee Break            |                  |                                                                                            |
 | 11:00 - 11:30     |    Invited Talk            | Marwin Segler    | Deep Learning for Molecules: The First Decade                                              |
 | 11:30 - 11:45     |    Contributed Talk        | Nikhil Branson   | AntiDIF: Accurate and Diverse Antibody Specific Inverse Folding with Discrete Diffusion    |
