@@ -46,7 +46,8 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 
 ## Accepted contributions
 
-**LLMs, chemical language models & agents**  
+**LLMs, chemical language models & agents**
+
 | ID | Title | Authors |
 |----|-------|---------|
 | 5  | Task Alignment Outweighs Framework Choice in Scientific LLM Agents | Nawaf Alampara, Martiño Ríos-García, Chandan Gupta, Sajid Mannan, Santiago Miret, N M Anoop Krishnan, Kevin Maik Jablonka |
@@ -56,7 +57,8 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 41 | Exploring Temperature and Molecular Representation Effects in LLMs for Chemistry | Laura van Weesep, Jens Sjölund, Ola Engkvist, Samuel Genheden |
 
 
-**Generative models for molecules & proteins** 
+**Generative models for molecules & proteins**
+
 | ID | Title | Authors |
 |----|-------|---------|
 | 1  | Look the Other Way: Designing 'Positive' Molecules with Negative Data via Task Arithmetic | Rıza Özçelik, Sarah de Ruiter, Francesca Grisoni |
@@ -66,7 +68,8 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 31 | FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction | Julian Cremer, Tuan Le, Mohammad M. Ghahremanpour, Emilia Sługocka, Filipe Menezes, Djork-Arné Clevert |
 
 
-**Molecular property prediction, graphs & omics** 
+**Molecular property prediction, graphs & omics**
+
 | ID | Title | Authors |
 |----|-------|---------|
 | 2  | Exploring alignment of scRNA-seq models with prior knowledge | Charlotte Claye, Pierre Marschall, Wassila Ouerdane, CELINE HUDELOT, Julien Duquesne |
@@ -77,7 +80,8 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 39 | Formalising Hybrid Modelling Approaches for Molecular Property Prediction | Adem R N Aouichaoui, Paul Seghers, Jens Abildskov |
 
 
-**Structure-based modelling, protein–ligand binding & MD** 
+**Structure-based modelling, protein–ligand binding & MD**
+
 | ID | Title | Authors |
 |----|-------|---------|
 | 3  | STRIPES: a Novel Spatio-Temporal Language to Encode Dynamic Protein-Ligand Binding | Emanuele Criscuolo, Rıza Özçelik, Francesca Grisoni |
@@ -89,7 +93,8 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 42 | B-Shapes: a completeness-first, rotation-invariant representation connecting spaces of ligands and pockets | Radoslav Krivak, Christos Feidakis, Jiří Vondrášek |
 
 
-**Synthesis planning, reactions & mechanistic reasoning** 
+**Synthesis planning, reactions & mechanistic reasoning**
+
 | ID | Title | Authors |
 |----|-------|---------|
 | 7  | SynthStrategy: Programmatic Distillation of Latent Chemical Knowledge in Large Language Models | Daniel P Armstrong, Zlatko Jončev, Andres M Bran, Philippe Schwaller |
@@ -100,7 +105,8 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 35 | Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs | Xuan Vu Nguyen, Daniel P Armstrong, Milena Wiegand, Andres M Bran, Zlatko Jončev, Philippe Schwaller |
  
 
-**Evaluation, interpretability, benchmarks & dataset infrastructure** 
+**Evaluation, interpretability, benchmarks & dataset infrastructure**
+
 | ID | Title | Authors |
 |----|-------|---------|
 | 12 | Evaluating 3D generative models for molecular design: an industry perspective | Alex T. Müller, Astrid Stroobants, Jessica Lanini, Paula Torren-Peraire, Balmiki Ghosh, Finton Sirockin, Nikolas Fechner, Nadine Schneider |
@@ -111,7 +117,8 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 36 | Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge | Antonia Ebner, Christoph Bartmann, Sonja Topf, Sohvi Luukkonen, Johannes Schimunek, Günter Klambauer |
  
 
-**Applications to materials, phase behaviour & large-scale screening** 
+**Applications to materials, phase behaviour & large-scale screening**
+
 | ID | Title | Authors |
 |----|-------|---------|
 | 4  | Automated navigation of condensate phase behavior with active machine learning | Yannick Leurs, Willem van den Hout, Andrea Gardin, Joost L.J. van Dongen, Andoni Rodriguez-Abetxuko, Nadia Erkamp, Jan van Hest, Francesca Grisoni, Luc Brunsveld |
