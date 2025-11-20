@@ -103,7 +103,7 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 22 | Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval | Olga Bunkova, Lorenzo Di Fruscia, Sophia Rupprecht, Artur M. Schweidtmann, Marcel Reinders, Jana Marie Weber |
 | 30 | Teaching Language Models Mechanistic Explainability Through Arrow-Pushing | Théo A. Neukomm, Zlatko Jončev, Philippe Schwaller |
 | 35 | Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs | Xuan Vu Nguyen, Daniel P Armstrong, Milena Wiegand, Andres M Bran, Zlatko Jončev, Philippe Schwaller |
- 
+
 
 **Evaluation, interpretability, benchmarks & dataset infrastructure**
 
@@ -115,7 +115,7 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 28 | MolForge and MolBox: End-to-End Automation for Reproducible Molecular Machine Learning Datasets | Luke Rossen, Francesca Grisoni |
 | 29 | Explaining What Matters: Faithfulness in Molecular Deep Learning | Marcel Hiltscher, Marc Bianciotto, Francesca Grisoni |
 | 36 | Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge | Antonia Ebner, Christoph Bartmann, Sonja Topf, Sohvi Luukkonen, Johannes Schimunek, Günter Klambauer |
- 
+
 
 **Applications to materials, phase behaviour & large-scale screening**
 
@@ -124,7 +124,6 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 4  | Automated navigation of condensate phase behavior with active machine learning | Yannick Leurs, Willem van den Hout, Andrea Gardin, Joost L.J. van Dongen, Andoni Rodriguez-Abetxuko, Nadia Erkamp, Jan van Hest, Francesca Grisoni, Luc Brunsveld |
 | 18 | Extended Abstract: Surfactant Simulation and Prediction Through Machine Learning | Richard Beckmann, Robert S. Jordan, Marisa Gliege, Santiago Miret, Vijay Kris Narasimhan, Rocío Mercado |
 | 33 | Accelerated Learning on Large Scale Screens using Generative Library Models | Eli N Weinstein, Andrei Slabodkin, Mattia G Gollub, Xiao-Bing Cui, Kerry Dobbs, Fang Zhang, Kristina Gurung, Amira J Bailey, Elizabeth Baker Wood |
-
 
 ## Important dates
 - Submission Date for Workshop Contributions: October 15, 2025, 23:59 UTC (**extended**)
