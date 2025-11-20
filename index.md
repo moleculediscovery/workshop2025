@@ -12,29 +12,31 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
      - Please register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecules-workshop-2025-virtual-participation-tickets-1968488753853)
 
 ## Schedule (subject to changes)
-| CET               | Event                      | Speakers         | Title                                                                                      |
-| ----------------- | -------------------------- | ---------------- | ------------------------------------------------------------------------------------------ |
-| 08:00 - 09:00     |	Registration            |                  |                                                                                            |
-| 09:00 - 09:30     |	Invited Talk            | Rocio Mercado    | Generative AI for Molecular Design: From Drugs to Sustainable Materials                    |
-| 09:30 - 10:00     |    Invited Talk            | Daniel Probst    | Of graphs, sets, and molecules                                                             |
-| 10:00 - 10:15     |    Contributed Talk        | Nawaf Alampara   | Task Alignment Outweighs Framework Choice in Scientific LLM Agents                         |
-| 10:15 - 10:30     | Contributed Talk           | Riccardo Tedoldi | WEISS: Wasserstein efficient sampling strategy for LLMs in drug design                     |
-| 10:30 - 11:00     |    Coffee Break            |                  |                                                                                            |
-| 11:00 - 11:30     |    Invited Talk            | Marwin Segler    | Deep Learning for Molecules: The First Decade                                              |
-| 11:30 - 11:45     |    Contributed Talk        | Nikhil Branson   | AntiDIF: Accurate and Diverse Antibody Specific Inverse Folding with Discrete Diffusion    |
-| 11:45 - 12:00     |    Contributed Talk        | Yujia Guo        | Bridging Data-Driven and Expert Knowledge for Interpretable Evaluation of Synthetic Routes |
-| 12:00 - 12:30     |    Panel Discussion        | Günter Klambauer, José Miguel Hernández Lobato, TBD |                                                         |
-| 12:30 - 13:30     |    Lunch                   |                  |                                                                                            |
-| 13:30 - 14:00     |    Invited Talk            | Nadine Schneider | Applying AI/ML to Accelerate the DMTA Cycle in Drug Discovery                              |
-| 14:00 - 14:15     |    Contributed Talk        | Julian Cremer    | FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction |
-| 14:15 - 14:30     |    Contributed Talk        | Rasmus Hannibal Tirsgaard | Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus              |
-| 14:30 - 14:45     |    Contributed Talk        | Xuan Vu Nguyen   | Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs             |
-| 14:45 - 15:00     |    Contributed Talk        | Marcel Hiltscher | Explaining What Matters: Faithfulness in Molecular Deep Learning                           |
-| 15:00 - 15:30     |    Coffee Break            |                  |                                                                                            |
-| 15:30 - 16:00     |    ELLIS UnConference Welcome Remarks |       |                                                                                            |
-| 16:00 - 16:30     |    Retreat of Program Fellows |               |                                                                                            |
-| 16:00 - 18:00     |    Poster session          |                  |                                                                                            |
-| 18:00 - 20:00     |    Reception               |                  |                                                                                            |
+
+| CET           | Event                              | Speakers                                           | Title                                                                                      |
+| ------------- | ---------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 08:00 - 09:00 | Registration                       |                                                    |                                                                                            |
+| 09:00 - 09:30 | Invited Talk                       | Rocio Mercado                                      | Generative AI for Molecular Design: From Drugs to Sustainable Materials                    |
+| 09:30 - 10:00 | Invited Talk                       | Daniel Probst                                      | Of graphs, sets, and molecules                                                             |
+| 10:00 - 10:15 | Contributed Talk                   | Nawaf Alampara                                     | Task Alignment Outweighs Framework Choice in Scientific LLM Agents                         |
+| 10:15 - 10:30 | Contributed Talk                   | Riccardo Tedoldi                                   | WEISS: Wasserstein efficient sampling strategy for LLMs in drug design                     |
+| 10:30 - 11:00 | Coffee Break                       |                                                    |                                                                                            |
+| 11:00 - 11:30 | Invited Talk                       | Marwin Segler                                      | Deep Learning for Molecules: The First Decade                                              |
+| 11:30 - 11:45 | Contributed Talk                   | Nikhil Branson                                     | AntiDIF: Accurate and Diverse Antibody Specific Inverse Folding with Discrete Diffusion    |
+| 11:45 - 12:00 | Contributed Talk                   | Yujia Guo                                          | Bridging Data-Driven and Expert Knowledge for Interpretable Evaluation of Synthetic Routes |
+| 12:00 - 12:30 | Panel Discussion                   | Günter Klambauer, José Miguel Hernández Lobato, TBD |                                                                                            |
+| 12:30 - 13:30 | Lunch                              |                                                    |                                                                                            |
+| 13:30 - 14:00 | Invited Talk                       | Nadine Schneider                                   | Applying AI/ML to Accelerate the DMTA Cycle in Drug Discovery                              |
+| 14:00 - 14:15 | Contributed Talk                   | Julian Cremer                                      | FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction |
+| 14:15 - 14:30 | Contributed Talk                   | Rasmus Hannibal Tirsgaard                          | Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus                       |
+| 14:30 - 14:45 | Contributed Talk                   | Xuan Vu Nguyen                                     | Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs             |
+| 14:45 - 15:00 | Contributed Talk                   | Marcel Hiltscher                                   | Explaining What Matters: Faithfulness in Molecular Deep Learning                           |
+| 15:00 - 15:30 | Coffee Break                       |                                                    |                                                                                            |
+| 15:30 - 16:00 | ELLIS UnConference Welcome Remarks |                                                    |                                                                                            |
+| 16:00 - 16:30 | Retreat of Program Fellows         |                                                    |                                                                                            |
+| 16:00 - 18:00 | Poster session                     |                                                    |                                                                                            |
+| 18:00 - 20:00 | Reception                          |                                                    |                                                                                            |
+
 
 ## Invited Speakers
 - [Rocio Mercado](https://rociomer.github.io/)
