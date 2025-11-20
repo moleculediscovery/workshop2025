@@ -153,11 +153,16 @@ We invite submissions on machine learning for molecules and materials with a spe
 ## Sponsors
 
 <div style="text-align: center;">
-  <img src="./assets/genai_log.png" alt="gen ai logo" style="width: 280px; max-width: 80%;"/>
-  <a href="https://www.genai.ac.uk/" style="display: block; margin-top: 8px; font-size: 1.1em; text-align: center;">
+  <img src="./assets/genai_log.png" 
+       alt="gen ai logo" 
+       style="display: block; margin: 0 auto; width: 280px; max-width: 80%;" />
+  <a href="https://www.genai.ac.uk/" 
+     style="display: block; margin-top: 10px; text-align: center; font-size: 1.2em;">
     gen ai
   </a>
 </div>
+
+
 
 
 ## Organizing Committee and Contact
