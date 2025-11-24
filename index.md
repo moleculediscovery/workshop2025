@@ -28,7 +28,7 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 12:30 - 13:30 | Lunch                              |                                                    |                                                                                            |
 | 13:30 - 14:00 | Invited Talk                       | Nadine Schneider                                   | Applying AI/ML to Accelerate the DMTA Cycle in Drug Discovery                              |
 | 14:00 - 14:15 | Contributed Talk                   | Julian Cremer                                      | FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction |
-| 14:15 - 14:30 | Contributed Talk                   | Rasmus Hannibal Tirsgaard                          | Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus                       |
+| 14:15 - 14:30 | Contributed Talk                   | Mikkel Jordahn                                     | Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus                       |
 | 14:30 - 14:45 | Contributed Talk                   | Xuan Vu Nguyen                                     | Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs             |
 | 14:45 - 15:00 | Contributed Talk                   | Marcel Hiltscher                                   | Explaining What Matters: Faithfulness in Molecular Deep Learning                           |
 | 15:00 - 15:30 | Coffee Break                       |                                                    |                                                                                            |
@@ -87,7 +87,7 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 | 3  | STRIPES: a Novel Spatio-Temporal Language to Encode Dynamic Protein-Ligand Binding | Emanuele Criscuolo, Rıza Özçelik, Francesca Grisoni |
 | 6  | Unifying Structure- and Ligand-based Drug Design via Contrastive Geometric Learning | Lisa Schneckenreiter, Sohvi Luukkonen, Lukas Friedrich, Daniel Kuhn, Günter Klambauer |
 | 23 | LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities | Florian Sestak, Artur P. Toshev, Andreas Fürst, Günter Klambauer, Andreas Mayr, Johannes Brandstetter |
-| 25 | Physics-Informed Surrogates in a Verified Agentic Pipeline for Robust Molecular Simulation | David Scott Lewis, Enrique Zueco |
+| 25 | Physics-Informed Surrogates in a Verified Agentic Pipeline for Robust Molecular Simulation | David Scott Lewis, Enrique Zueco, Enrique Concha |
 | 37 | FlashMD reloaded: extending the capabilities of a universal, machine-learned direct molecular dynamics propagator | Sanggyu Chong, Filippo Bigi, Michele Ceriotti |
 | 40 | MDAgent: A Modular Multi-Agent Framework for Autonomous Protein-Ligand Molecular Dynamics Simulations | Cassandra Masschelein, Salomé Guilbert, Jeremy Goumaz, Bohdan Naida, Philippe Schwaller |
 | 42 | B-Shapes: a completeness-first, rotation-invariant representation connecting spaces of ligands and pockets | Radoslav Krivak, Christos Feidakis, Jiří Vondrášek |
