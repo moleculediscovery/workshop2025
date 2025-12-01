@@ -183,6 +183,6 @@ We invite submissions on machine learning for molecules and materials with a spe
 
 
 ## Organizing Committee and Contact
-Chairs: Nadine Schneider, Francesca Grisoni, and Jose Miguel Hernandez Lobato
+Program Chairs: Nadine Schneider, Francesca Grisoni, and Jose Miguel Hernandez Lobato
 
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
