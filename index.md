@@ -168,6 +168,16 @@ We invite submissions on machine learning for molecules and materials with a spe
   </a>
 </div>
 
+<div style="text-align: center;">
+  <img src="./assets/Logo_BC_zwart_RGB.jpg"
+       alt="BigChem logo"
+       style="display: block; margin: 0 auto; width: 280px; max-width: 80%;" />
+  <a href="https://www.genai.ac.uk/](https://www.bigchemistry-nijmegen.nl/"
+     style="display: block; margin: 10px auto 0 auto; font-size: 1.1em;">
+    Big Chemistry
+  </a>
+</div>
+
 
 
 
