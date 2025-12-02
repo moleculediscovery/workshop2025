@@ -13,6 +13,7 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 
 ## Poster Session
 Room: 5 
+
 Time: 4pm - 6 pm 
 
 ## Schedule (subject to changes)
