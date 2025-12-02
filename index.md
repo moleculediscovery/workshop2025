@@ -11,6 +11,10 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 - Virtual participation:
      - Please register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecules-workshop-2025-virtual-participation-tickets-1968488753853)
 
+## Poster Session
+Room: 5 
+Time: 4pm - 6 pm 
+
 ## Schedule (subject to changes)
 
 | CET           | Event                              | Speakers                                           | Title                                                                                      |
