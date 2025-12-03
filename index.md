@@ -8,8 +8,8 @@ This will be the 5th-year edition of the ML4Molecules workshop organized by the 
 ## Best Paper Award
 The Award Committee congratulates the winners of this year's best paper awards!
 
-- AntiDIF: Accurate and Diverse Antibody Specific Inverse Folding with Discrete Diffusion | Nikhil Branson, Charlotte Deane |
-- Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs | Xuan Vu Nguyen, Daniel P Armstrong, Milena Wiegand, Andres M Bran, Zlatko Jončev, Philippe Schwaller |
+- AntiDIF: Accurate and Diverse Antibody Specific Inverse Folding with Discrete Diffusion *Nikhil Branson, Charlotte Deane*
+- Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs *Xuan Vu Nguyen, Daniel P Armstrong, Milena Wiegand, Andres M Bran, Zlatko Jončev, Philippe Schwaller*
 
 
 ## Poster Session
