@@ -1,15 +1,5 @@
 [About](#about) - [Registration](#registration) - [Schedule](#schedule) - [Keynote Speakers](#keynote-speakers)  - [Keynote Abstracts](#keynote-abstracts) - [Accepted Contributions](#accepted-contributions) - [Important Dates](#important-dates) - [Call for Papers](#call-for-papers)
 
-<div style="border-left: 4px solid #d9534f; background: #fdf2f2; padding: 1em; margin: 1.5em 0;">
-<strong>Notice</strong><br>
-We sincerely apologize for the disruption that occurred during the last session of our workshop (virtual session only) due to unauthorized intrusions and the sharing of inappropriate material.
-This incident does not reflect our values or our commitment to providing a safe and respectful environment for all participants.
-
-<br><br>
-We are investigating the case and working with the organizers to ensure that appropriate steps are taken to prevent such incidents in the future.
-We appreciate your understanding and regret any distress this may have caused.
-</div>
-
 
 ## About
 
