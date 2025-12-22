@@ -81,7 +81,7 @@ Time: 4pm - 6 pm
 | 2  | Exploring alignment of scRNA-seq models with prior knowledge | Charlotte Claye, Pierre Marschall, Wassila Ouerdane, CELINE HUDELOT, Julien Duquesne |
 | 24 | Improving Molecular Property Prediction with Score-Based Models | Julien Horwood, José Miguel Hernández-Lobato, Dino Oglic |
 | 26 | Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus | Rasmus Hannibal Tirsgaard, Marisa Wodrich, Laurits Fredsgaard, Mikkel Jordahn, Mikkel N. Schmidt |
-| 32 | Robust Mechanism-of-Action Identification Through In-Context Multi-Source Domain Adaptation | Ana Sanchez-Fernandez, Thomas Pinetz, Werner Zellinger, Günter Klambauer |
+| 32 | [Robust Mechanism-of-Action Identification Through In-Context Multi-Source Domain Adaptation](https://cloud.ml.jku.at/s/iPA2aXZGEDyqEtp?dir=/&editing=false&openfile=true) | Ana Sanchez-Fernandez, Thomas Pinetz, Werner Zellinger, Günter Klambauer |
 | 34 | Unified Bayesian Modelling of Bioactivities Across ChEMBL | Michael Backenköhler, Joschka Groß, Andrea Volkamer |
 | 39 | Formalising Hybrid Modelling Approaches for Molecular Property Prediction | Adem R N Aouichaoui, Paul Seghers, Jens Abildskov |
 
