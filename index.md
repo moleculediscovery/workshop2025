@@ -56,10 +56,10 @@ Time: 4pm - 6 pm
 
 | ID | Title | Authors |
 |----|-------|---------|
-| 5  | Task Alignment Outweighs Framework Choice in Scientific LLM Agents | Nawaf Alampara, Martiño Ríos-García, Chandan Gupta, Sajid Mannan, Santiago Miret, N M Anoop Krishnan, Kevin Maik Jablonka |
+| 5  | [Task Alignment Outweighs Framework Choice in Scientific LLM Agents](https://cloud.ml.jku.at/s/ceyrTGBjWMYZjG2) | Nawaf Alampara, Martiño Ríos-García, Chandan Gupta, Sajid Mannan, Santiago Miret, N M Anoop Krishnan, Kevin Maik Jablonka |
 | 8  | MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs | Christoph Bartmann, Johannes Schimunek, Mykyta Ielanskyi, Philipp Seidl, Günter Klambauer, Sohvi Luukkonen |
-| 9  | WEISS: Wasserstein efficient sampling strategy for LLMs in drug design | Riccardo Tedoldi, Junyong Li, Ola Engkvist, Andrea Passerini, Annie Westerlund, Alessandro Tibo |
-| 11 | Integration over Isolation: DFT descriptors boost Chemical Language Model predictive performance | Gian-Michele Cherchi, Robert Pollice, Davi Mattoso, Hannes Hovorka |
+| 9  | [WEISS: Wasserstein efficient sampling strategy for LLMs in drug design](https://cloud.ml.jku.at/s/DqyGNijzxsjQJ8L) | Riccardo Tedoldi, Junyong Li, Ola Engkvist, Andrea Passerini, Annie Westerlund, Alessandro Tibo |
+| 11 | [Integration over Isolation: DFT descriptors boost Chemical Language Model predictive performance](https://cloud.ml.jku.at/s/dr3oaGjKRFr3wPJ) | Gian-Michele Cherchi, Robert Pollice, Davi Mattoso, Hannes Hovorka |
 | 41 | Exploring Temperature and Molecular Representation Effects in LLMs for Chemistry | Laura van Weesep, Jens Sjölund, Ola Engkvist, Samuel Genheden |
 
 
