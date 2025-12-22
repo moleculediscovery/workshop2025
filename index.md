@@ -120,7 +120,7 @@ Time: 4pm - 6 pm
 | 20 | Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery | Michael Backenköhler, Joschka Groß, Andrea Volkamer |
 | 28 | MolForge and MolBox: End-to-End Automation for Reproducible Molecular Machine Learning Datasets | Luke Rossen, Francesca Grisoni |
 | 29 | Explaining What Matters: Faithfulness in Molecular Deep Learning | Marcel Hiltscher, Marc Bianciotto, Francesca Grisoni |
-| 36 | Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge | Antonia Ebner, Christoph Bartmann, Sonja Topf, Sohvi Luukkonen, Johannes Schimunek, Günter Klambauer |
+| 36 | [Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge](https://arxiv.org/pdf/2511.14744) | Antonia Ebner, Christoph Bartmann, Sonja Topf, Sohvi Luukkonen, Johannes Schimunek, Günter Klambauer |
 
 
 **Applications to materials, phase behaviour & large-scale screening**
