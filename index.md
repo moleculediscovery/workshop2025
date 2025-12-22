@@ -70,7 +70,7 @@ Time: 4pm - 6 pm
 | 1  | Look the Other Way: Designing 'Positive' Molecules with Negative Data via Task Arithmetic | Rıza Özçelik, Sarah de Ruiter, Francesca Grisoni |
 | 10 | Controllable Molecular Generation with Fine-tuned Flow-matching Model | Kunyu Wang, Jon Paul Janet, Alessandro Tibo |
 | 14 | AntiDIF: Accurate and Diverse Antibody Specific Inverse Folding with Discrete Diffusion | Nikhil Branson, Charlotte Deane |
-| 16 | Auto-Encoding Molecules: Graph-Matching Capabilities Matter | Magnus Cunow, Gerrit Großmann, Verena Wolf, Sebastian Josef Vollmer |
+| 16 | [Auto-Encoding Molecules: Graph-Matching Capabilities Matter](https://cloud.ml.jku.at/s/igcqqHwHgbqYjqt) | Magnus Cunow, Gerrit Großmann, Verena Wolf, Sebastian Josef Vollmer |
 | 31 | FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction | Julian Cremer, Tuan Le, Mohammad M. Ghahremanpour, Emilia Sługocka, Filipe Menezes, Djork-Arné Clevert |
 
 
@@ -79,7 +79,7 @@ Time: 4pm - 6 pm
 | ID | Title | Authors |
 |----|-------|---------|
 | 2  | Exploring alignment of scRNA-seq models with prior knowledge | Charlotte Claye, Pierre Marschall, Wassila Ouerdane, CELINE HUDELOT, Julien Duquesne |
-| 24 | Improving Molecular Property Prediction with Score-Based Models | Julien Horwood, José Miguel Hernández-Lobato, Dino Oglic |
+| 24 | [Improving Molecular Property Prediction with Score-Based Models](https://cloud.ml.jku.at/s/sNf22aakEpNHPgP) | Julien Horwood, José Miguel Hernández-Lobato, Dino Oglic |
 | 26 | Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus | Rasmus Hannibal Tirsgaard, Marisa Wodrich, Laurits Fredsgaard, Mikkel Jordahn, Mikkel N. Schmidt |
 | 32 | [Robust Mechanism-of-Action Identification Through In-Context Multi-Source Domain Adaptation](https://cloud.ml.jku.at/s/iPA2aXZGEDyqEtp?dir=/&editing=false&openfile=true) | Ana Sanchez-Fernandez, Thomas Pinetz, Werner Zellinger, Günter Klambauer |
 | 34 | Unified Bayesian Modelling of Bioactivities Across ChEMBL | Michael Backenköhler, Joschka Groß, Andrea Volkamer |
@@ -95,7 +95,7 @@ Time: 4pm - 6 pm
 | 23 | LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities | Florian Sestak, Artur P. Toshev, Andreas Fürst, Günter Klambauer, Andreas Mayr, Johannes Brandstetter |
 | 25 | Physics-Informed Surrogates in a Verified Agentic Pipeline for Robust Molecular Simulation | David Scott Lewis, Enrique Zueco, Enrique Concha |
 | 37 | FlashMD reloaded: extending the capabilities of a universal, machine-learned direct molecular dynamics propagator | Sanggyu Chong, Filippo Bigi, Michele Ceriotti |
-| 40 | MDAgent: A Modular Multi-Agent Framework for Autonomous Protein-Ligand Molecular Dynamics Simulations | Cassandra Masschelein, Salomé Guilbert, Jeremy Goumaz, Bohdan Naida, Philippe Schwaller |
+| 40 | [MDAgent: A Modular Multi-Agent Framework for Autonomous Protein-Ligand Molecular Dynamics Simulations](https://cloud.ml.jku.at/s/FD2T2HpQ7Y4C25S) | Cassandra Masschelein, Salomé Guilbert, Jeremy Goumaz, Bohdan Naida, Philippe Schwaller |
 | 42 | B-Shapes: a completeness-first, rotation-invariant representation connecting spaces of ligands and pockets | Radoslav Krivak, Christos Feidakis, Jiří Vondrášek |
 
 
@@ -104,9 +104,9 @@ Time: 4pm - 6 pm
 | ID | Title | Authors |
 |----|-------|---------|
 | 7  | SynthStrategy: Programmatic Distillation of Latent Chemical Knowledge in Large Language Models | Daniel P Armstrong, Zlatko Jončev, Andres M Bran, Philippe Schwaller |
-| 19 | fragSMILES is inclined to well express chemical fragments and chirality for synthesis planning | Fabrizio Mastrolorito |
+| 19 | [fragSMILES is inclined to well express chemical fragments and chirality for synthesis planning](https://cloud.ml.jku.at/s/kbarE99cae4SxCf) | Fabrizio Mastrolorito |
 | 21 | Bridging Data-Driven and Expert Knowledge for Interpretable Evaluation of Synthetic Routes | Yujia Guo, Mikhail Kabeshov, Tat Hong Duong Le, Marco Vinicio Mijangos Linares, Samuel Genheden, Giulia Bergonzini, Ola Engkvist, Samuel Kaski |
-| 22 | Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval | Olga Bunkova, Lorenzo Di Fruscia, Sophia Rupprecht, Artur M. Schweidtmann, Marcel Reinders, Jana Marie Weber |
+| 22 | [Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval](https://cloud.ml.jku.at/s/gaEx2378yGrA8G4) | Olga Bunkova, Lorenzo Di Fruscia, Sophia Rupprecht, Artur M. Schweidtmann, Marcel Reinders, Jana Marie Weber |
 | 30 | Teaching Language Models Mechanistic Explainability Through Arrow-Pushing | Théo A. Neukomm, Zlatko Jončev, Philippe Schwaller |
 | 35 | Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs | Xuan Vu Nguyen, Daniel P Armstrong, Milena Wiegand, Andres M Bran, Zlatko Jončev, Philippe Schwaller |
 
@@ -129,7 +129,7 @@ Time: 4pm - 6 pm
 |----|-------|---------|
 | 4  | Automated navigation of condensate phase behavior with active machine learning | Yannick Leurs, Willem van den Hout, Andrea Gardin, Joost L.J. van Dongen, Andoni Rodriguez-Abetxuko, Nadia Erkamp, Jan van Hest, Francesca Grisoni, Luc Brunsveld |
 | 18 | Extended Abstract: Surfactant Simulation and Prediction Through Machine Learning | Richard Beckmann, Robert S. Jordan, Marisa Gliege, Santiago Miret, Vijay Kris Narasimhan, Rocío Mercado |
-| 33 | Accelerated Learning on Large Scale Screens using Generative Library Models | Eli N Weinstein, Andrei Slabodkin, Mattia G Gollub, Xiao-Bing Cui, Kerry Dobbs, Fang Zhang, Kristina Gurung, Amira J Bailey, Elizabeth Baker Wood |
+| 33 | [Accelerated Learning on Large Scale Screens using Generative Library Models](https://cloud.ml.jku.at/s/L3g4RB8jq2XZ7eW) | Eli N Weinstein, Andrei Slabodkin, Mattia G Gollub, Xiao-Bing Cui, Kerry Dobbs, Fang Zhang, Kristina Gurung, Amira J Bailey, Elizabeth Baker Wood |
 
 ## Important dates
 - Submission Date for Workshop Contributions: October 15, 2025, 23:59 UTC (**extended**)
